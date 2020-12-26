@@ -8,6 +8,25 @@ I really like learning languages in my daily life. n my way to become a softewar
    * Duolingo
    * Spanish Coffee Break
    * Spanish for Reading
-   
+
 * Current:
   * Use duolingo everyday and list all programmer points from each module.
+
+
+## Duolingo grammar list
+
+### Tense
+
+* Present Tense
+  * Pres Tense 1 [a link](Duolingo Grammar List\Level_One\Pres_Tense.md)
+  * Pres Tense 2
+
+* Past Tense
+  * Past Tense 1
+  * Past Tense 2
+
+
+
+### Verb
+
+### Adjective
