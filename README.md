@@ -18,7 +18,7 @@ I really like learning languages in my daily life. n my way to become a softewar
 ### Tense
 
 * Present Tense
-  * [Pres Tense 1 ](Duolingo Grammar List\Level_One\Pres_Tense.md)
+  * [Pres Tense 1 ](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_One/Pres_Tense.md)
   * Pres Tense 2
 
 * Past Tense
