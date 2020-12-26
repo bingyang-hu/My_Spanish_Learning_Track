@@ -15,4 +15,9 @@ Each type of verb changes based on the time, people and mood..
  habla
  hablamos
  hablais
- hablan 
+ hablan
+
+| subject | verb|
+| yo      | hablo |
+| tú      | hablas|
+| él/ella | habla |
