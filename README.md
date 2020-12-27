@@ -41,4 +41,4 @@ I really like learning languages in my daily life. n my way to become a softewar
 
 ## Spanish for reading vs. Duolingo topic
 
-13. Present Tense of **-ar** verbs :  Level 1- [Pres Tense] (https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_One/Pres_Tense.md)
+13. Present Tense of **-ar** verbs :  Level 1- [Pres Tense](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_One/Pres_Tense.md)
