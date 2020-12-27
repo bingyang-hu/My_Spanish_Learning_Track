@@ -22,9 +22,11 @@ I really like learning languages in my daily life. n my way to become a softewar
   * [Pres Tense 2](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Two/Pres_Tense2.md)
 
 * Past Tense
-  * [Past Tense 1](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Three/Past%20Tense%201.md)
-  * [Past Tense 2](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/Past%20Tense%202.md)
-
+   + Preterite Tense
+        * [Past Tense 1](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Three/Past%20Tense%201.md)
+        * [Past Tense 2](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/Past%20Tense%202.md)
+   + Imperfect Tense
+        * [Past Tense 3]
 
 
 ### Verb
