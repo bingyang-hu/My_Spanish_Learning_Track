@@ -18,9 +18,11 @@ I really like learning languages in my daily life. n my way to become a softewar
 ### Tense
 
 * Present Tense
-  * [Pres Tense ](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_One/Pres_Tense.md)
-  * [Pres Tense 2](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Two/Pres_Tense2.md)
-
+    + Simple Present Tense:
+        * [Pres Tense ](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_One/Pres_Tense.md)
+        * [Pres Tense 2](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Two/Pres_Tense2.md)
+    + Present Perfect:
+        * 
 * Past Tense
    + Preterite Tense
         * [Past Tense 1](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Three/Past%20Tense%201.md)
@@ -40,11 +42,13 @@ I really like learning languages in my daily life. n my way to become a softewar
 ### Pronoun
    + Object Pronouns
      + Direct Object Pronouns
-          - [Groceries 2](http(s://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/Groceries%202.md)
-          - [Hobbies]()
-          - [Object 2] ()
+          - [Groceries 2](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/Groceries%202.md)
+          - [Hobbies](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/Hobbies.md)
+          - [Object 2](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/Objects%202.md)
      + Indirect Object Pronouns
           - [School 5](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/School%205.md)
+          - [Hobbies](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/Hobbies.md)
+          - [Object 2](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/Objects%202.md)
 
 ## Spanish for reading vs. Duolingo topic
 
