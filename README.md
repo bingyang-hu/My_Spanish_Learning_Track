@@ -40,10 +40,10 @@ I really like learning languages in my daily life. n my way to become a softewar
 ### Pronoun
    + Object Pronouns
      + Direct Object Pronouns
-          - [Groceries 2]
+          - [Groceries 2](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/Groceries%202.md)
           - []
      + Indirect Object Pronouns
-          - [School 5]
+          - [School 5](https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Four/School%205.md)
 
 ## Spanish for reading vs. Duolingo topic
 
