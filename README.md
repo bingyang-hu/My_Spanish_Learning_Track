@@ -38,6 +38,12 @@ I really like learning languages in my daily life. n my way to become a softewar
 ### Adjective
 
 ### Pronoun
+   + Object Pronouns
+     + Direct Object Pronouns
+          - [Groceries 2]
+          - []
+     + Indirect Object Pronouns
+          - [School 5]
 
 ## Spanish for reading vs. Duolingo topic
 
