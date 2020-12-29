@@ -21,3 +21,11 @@
 |él/ella/usted| comía|
 |nosotros/nosotras| comíamos|
 |ellos/ellas/ustedes|comían|
+
+|subject | ir|
+|--------|------|
+| yo     |iba|
+|tú       |ibas|
+|él/ella/usted| iba|
+|nosotros/nosotras| ibamos|
+|ellos/ellas/ustedes|ibais|
