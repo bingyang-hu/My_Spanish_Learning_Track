@@ -17,3 +17,10 @@
 |él/ella/usted  | dirá |
 |nosotros/nosotras| diremos|
 |ellos/ellas/ustedes| dirán|
+
+
+#### Irregular verbs:
+
+tener, yo tendré, tú tendrás
+
+poner, yo pondré, tú pondrás
