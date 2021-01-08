@@ -1,5 +1,7 @@
 + The verb **querer** is special when talking about the future.
 
+
+
 | subject | querer|
 |---------|-------|
 |   yo    | querré|
