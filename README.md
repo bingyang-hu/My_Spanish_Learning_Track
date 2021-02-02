@@ -46,7 +46,7 @@ I really like learning languages in my daily life. n my way to become a softewar
 
 ### Voice
 + Passive Voice:
-  *[Travel 6] ()
+  *[Travel 6] (https://github.com/bingyang-hu/My_Spanish_Learning_Track/blob/main/Duolingo%20Grammar%20List/Level_Five/Travel%206.md)
 
 
 ### Verb
