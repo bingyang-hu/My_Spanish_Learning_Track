@@ -1,0 +1,2 @@
+enodajo -> angry
+sorprendido -> surprised
