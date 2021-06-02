@@ -10,3 +10,9 @@ haber + verb ending in **-ando** or **-ido**.
 |él/ella/usted  | ha |
 |nosotros/nosotras| hemos|
 |ellos/ellas/ustedes| han|
+
+
+segura safe
+el piso  floor
+el cesped grass
+la granja farm
