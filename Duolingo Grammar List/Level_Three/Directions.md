@@ -1,0 +1,5 @@
+
+
+
+girar -> turn
+siga -> continue
